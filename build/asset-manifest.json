@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68b6fb25.css",
+    "main.js": "/static/js/main.03947042.js",
+    "static/js/453.9658af8c.chunk.js": "/static/js/453.9658af8c.chunk.js",
+    "static/media/boxes.jpg": "/static/media/boxes.0fffaa2e38300936e7ef.jpg",
+    "static/media/emaps-lite-logo.jpeg": "/static/media/emaps-lite-logo.d9edc2f1e9ba2a30c58f.jpeg",
+    "static/media/naturals-logo.png": "/static/media/naturals-logo.bde094eaf2ea0b451173.png",
+    "index.html": "/index.html",
+    "main.68b6fb25.css.map": "/static/css/main.68b6fb25.css.map",
+    "main.03947042.js.map": "/static/js/main.03947042.js.map",
+    "453.9658af8c.chunk.js.map": "/static/js/453.9658af8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b6fb25.css",
+    "static/js/main.03947042.js"
+  ]
+}
