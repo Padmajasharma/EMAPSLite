@@ -1,0 +1,83 @@
+.marketing-text {
+  position: relative;
+  text-align: center;
+  padding: 50px 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-size: cover; /* Ensure the background image covers the entire container */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent background image from repeating */
+  height: 160vh; /* Set a minimum height */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Adjust the text to start from the top */
+  align-items: center; /* Center align items horizontally */
+}
+
+.small-line {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 10px;
+  top: 20%; /* Add margin from top */
+  position: relative; /* Ensure it stays in the flow of the document */
+  z-index: 2; /* Ensure it is above other elements */
+}
+
+.big-bold-text {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #333;
+  top: 21%;
+  margin-bottom: 20px;
+  position: relative; /* Ensure it stays in the flow of the document */
+  z-index: 2; /* Ensure it is above other elements */
+}
+
+.three-lines {
+  top: 22.5%;
+  text-align: center;
+  width: 80%; /* Adjust width as needed */
+  position: relative; /* Ensure it stays in the flow of the document */
+  z-index: 2; /* Ensure it is above other elements */
+}
+
+.coverage-container {
+  top: 30%;
+  text-align: center;
+  position: relative; /* Ensure it stays in the flow of the document */
+  z-index: 2; /* Ensure it is above other elements */
+}
+
+.coverage-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.coverage-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.coverage-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 150px; /* Adjust width as needed */
+  text-align: center;
+}
+
+.coverage-icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.coverage-item p {
+  font-size: 1rem;
+  color: #333;
+}
