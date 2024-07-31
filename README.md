@@ -35,10 +35,10 @@ To get started with eMaps Lite, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Padmajasharma/EMAPSLite.git
 
 # Navigate into the project directory
-cd yourproject
+cd EMAPSLite
 
 # Install dependencies
 npm install
