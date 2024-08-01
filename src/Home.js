@@ -2,7 +2,7 @@ import React from 'react';
 import './Home.scss';
 import BillingSoftware from './components/BillingSoftware';
 import OverlapContainer from './components/OverlapContainer';
-import ProductExplanation from './cmponents/ProductExplanation';
+import ProductExplanation from './components/ProductExplanation';
 
 
 const Home = () => {
